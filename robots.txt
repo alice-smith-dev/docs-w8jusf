@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-3m3975.сигналы-яндекс-директ.рф/sitemap.xml
